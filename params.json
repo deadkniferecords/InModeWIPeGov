@@ -1,0 +1,6 @@
+{
+  "name": "-in-mode-w.i.p-e-gov-",
+  "tagline": "individual WIP units in real-time, eliminate manual docs, and view real-time production data 24/7",
+  "body": "# -In-Mode-W.I.P-e-Gov-\r\nindividual WIP units in real-time, eliminate manual docs, and view real-time production data 24/7\r\n\r\n# \\* \\*** # \r\n\\***\r\n\r\n```javascript\r\nfunction fancyAlert(arg) {\r\n  if(arg) {\r\n    $.facebox({div:'#foo'})\r\n  }\r\n}\r\n```\r\n\r\n# \\* \\*** # \r\n\\***\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
